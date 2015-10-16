@@ -1,2 +1,0 @@
-# datasciencecoursera
-first time git
